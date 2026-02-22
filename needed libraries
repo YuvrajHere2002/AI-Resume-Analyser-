@@ -1,0 +1,17 @@
+### 2. Install Dependencies
+
+pip install -r requirements.txt
+
+
+streamlit
+spacy
+nltk
+sentence-transformers
+scikit-learn
+pandas
+sqlite3
+
+
+### 3. Run Application
+
+streamlit run app.py
